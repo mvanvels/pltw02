@@ -16,9 +16,17 @@ Robert Aszman added Robert Aszman added...
 
 
 
+
 Clay-comments-Richmond=comments
 
 Hello
+
+
+Garrett is awesome
+
+David Moore added comments
+
+
 
 A comment by Austin Cram.
 
@@ -28,7 +36,10 @@ David Moore added comments
 
 
 
+
 Hello
+
+
 
 
 
