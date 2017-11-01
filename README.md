@@ -59,14 +59,18 @@ David Moore added comments
 
 
 
+
+Clay-comments-Richmond=comments
+
+Hello
+
+
 Garrett is awesome
-=======
+
 David Moore added comments
 
 
-=======
-=======
-=======
+
 A comment by Austin Cram.
 
 
@@ -78,11 +82,11 @@ David Moore added comments
 
 Hello
 
-=======
 
 
 
-=======
+
+Hello
 
 
 
@@ -96,7 +100,6 @@ Hello
 
 
 
-=======
 Kayla added a commentttttt
 
 Hello
@@ -119,14 +122,15 @@ Hello
 
 
 
+
 Wendy Houston added comment
 
 
 
 Josh T is IceT sup
-=======
+
 Hello
-=======
+
 n
 
 Robert Aszman added Robert Aszman added...
@@ -142,8 +146,7 @@ David Moore added comments
 Hello
 
 
-Wendy Houston added comment
-=======
 
+Wendy Houston added comment
 
 
